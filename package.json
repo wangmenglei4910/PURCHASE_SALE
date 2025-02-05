@@ -2,6 +2,7 @@
   "name": "tsparticles-react",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://wangmenglei4910.github.io/PURCHASE_SALE",
   "dependencies": {
     "@ant-design/charts": "^2.2.6",
     "@ant-design/icons": "^5.6.0",
