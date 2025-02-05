@@ -1,0 +1,30 @@
+.app-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.analysis-table {
+  margin-top: 20px;
+}
+
+.ant-card {
+  margin-top: 20px;
+}
+
+.ant-space {
+  margin-bottom: 20px;
+}
+
+/* 添加图表样式 */
+.chart-card {
+  margin-top: 24px;
+}
+
+.chart-card .ant-card-head {
+  border-bottom: none;
+}
+
+.chart-card .ant-card-body {
+  height: 400px;
+}
