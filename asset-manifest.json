@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PURCHASE_SALE/static/css/main.d223346d.css",
+    "main.js": "/PURCHASE_SALE/static/js/main.c614441a.js",
+    "index.html": "/PURCHASE_SALE/index.html",
+    "main.d223346d.css.map": "/PURCHASE_SALE/static/css/main.d223346d.css.map",
+    "main.c614441a.js.map": "/PURCHASE_SALE/static/js/main.c614441a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d223346d.css",
+    "static/js/main.c614441a.js"
+  ]
+}
